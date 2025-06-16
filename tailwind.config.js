@@ -15,6 +15,10 @@ export default {
           xl: '5rem',
           '2xl': '6rem',
         }
+      },
+      colors: {
+        subTitle: '#4A90E2',
+        aboutme:'#F5F6FA',
       }
     },
   },

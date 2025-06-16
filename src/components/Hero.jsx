@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="bg-cover h-[300px] md:h-[633px]" style={BgStyle}>
         <div className=" top-0 left-0 w-full h-full bg-white/75">
           <div className="absolute inset-0  top-[190px] items-center z-20 text-center container flex flex-col gap-3">
-            <h2 className="text-[30px] md:text-[50px] font-bold text-[#1A2B4C] ">
+            <h2 className="text-[30px] md:text-[56px] font-bold text-[#1A2B4C] ">
               The First Step to Your <br /> Dream Career
             </h2>
             <div className="w-10/12 flex justify-center items-center ">
