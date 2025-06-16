@@ -25,7 +25,7 @@ const Navbar = () => {
           {/* Button Section*/}
           <div className="hidden md:block">
             <Button
-              classname="border-black border w-[130px] items-center"
+              classname="border-black border w-[130px] text-center"
               type="submit"
             >
               {" "}
