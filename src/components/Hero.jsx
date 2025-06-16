@@ -26,7 +26,7 @@ const Hero = () => {
                 strategy with CareerMate.
               </p>
             </div>
-            <div className="btn flex items-center bg-[#4A90E2] text-white text-[16px] md:text-[18px] font-semibold px-5 py-2 gap-4  rounded-full hover:bg-[#3a78c2] transition duration-300 ease-in-out">
+            <div className="btn cursor-pointer flex items-center bg-[#4A90E2] text-white text-[16px] md:text-[18px] font-semibold px-5 py-2 gap-4  rounded-full hover:bg-[#3a78c2] transition duration-300 ease-in-out">
               Start Now
               <span className="bg-white rounded-full p-2">
                 <RxDoubleArrowRight className="text-[22px] text-black rounded-full " />
