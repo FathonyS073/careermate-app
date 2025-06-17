@@ -8,8 +8,8 @@ export const LogoCompany = [
     {
         id:1,
         logo:Amazon,
-        width:"169px",
-        height:"51px"
+        width:"189px",
+        height:"61px"
     },
     {
         id:2,
@@ -19,14 +19,20 @@ export const LogoCompany = [
     },
     {
         id:3,
-        logo:Deloitte
+        logo:Deloitte,
+        width:"248px",
+        height:"82px"
     },
     {
         id:4,
-        logo:Uber
+        logo:Uber,
+        width:"147px",
+        height:"51px"
     },
     {
         id:5,
-        logo:Google
+        logo:Google,
+        width:"151px",
+        height:"51px"
     }
 ]
