@@ -5,10 +5,10 @@ import SubTitle from "./Elements/SubTitle";
 
 const AboutMe = () => {
   return (
-    <div className="container py-10 bg-aboutme h-full">
+    <div className="container py-10 bg-backgroundPrimer h-full">
       <SubTitle title="Why CareerMate" />
       <div className="my-5 flex justify-between items-start">
-        <h1 className="text-[30px] md:text-[45px] font-bold w-1/2">
+        <h1 className="text-[30px] md:text-[45px] font-bold w-1/2 text-title">
           Build Your Career with <br /> Trusted Support
         </h1>
         <p className="text-[15px] md:text-[20px] w-1/2 pt-3 font-normal text-[#848484]">

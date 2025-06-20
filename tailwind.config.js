@@ -18,7 +18,8 @@ export default {
       },
       colors: {
         subTitle: '#4A90E2',
-        aboutme:'#F5F6FA',
+        backgroundPrimer:'#F5F6FA',
+        title : '#1A2B4C',
       }
     },
   },
