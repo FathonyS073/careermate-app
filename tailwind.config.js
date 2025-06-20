@@ -20,6 +20,10 @@ export default {
         subTitle: '#4A90E2',
         backgroundPrimer:'#F5F6FA',
         title : '#1A2B4C',
+        desk : '#848484',
+        mentor: '#EAECEF',
+        cardmentor: '#F8FBFF',
+        bordermentor: 'C5DCF6',
       }
     },
   },
