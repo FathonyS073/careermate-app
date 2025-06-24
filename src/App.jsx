@@ -5,6 +5,7 @@ import AboutMe from "./components/AboutMe";
 import Company from "./components/Company";
 import Mentor from "./components/Mentor";
 import CareerTest from "./components/CareerTest";
+import Cta from "./components/Cta";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Company />
       <Mentor />
       <CareerTest />
+      <Cta />
     </>
   );
 };
