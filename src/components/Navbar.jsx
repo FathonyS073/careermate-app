@@ -6,8 +6,8 @@ import Button from "./Elements/Button";
 const Navbar = () => {
   return (
     <>
-      <nav>
-        <div className="container pt-5 flex justify-between gap-5 absolute">
+      <nav className="relative">
+        <div className="container pt-5 flex justify-between gap-5 absolute items-center">
           {/* Logo Section*/}
           <img src={Logo} className="w-[80px] md:w-[100px] h-[40px] " alt="" />
           {/* Menu Section*/}
